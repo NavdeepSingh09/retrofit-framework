@@ -12,7 +12,7 @@ import java.util.List;
 
 public class Controller implements Callback<Group_Multigroup> {
 
-    static final String BASE_URL = "Base URL paste here";
+    static final String BASE_URL = "";
 
     public void start() {
         Gson gson = new GsonBuilder()
